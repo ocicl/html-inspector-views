@@ -4,7 +4,7 @@ Infrastructure for defining inspector views in terms of HTML snippets.
 
 |---------+-----------------------------------------------------------|
 | source  | git:https://codeberg.org/khinsen/html-inspector-views.git |
-| commit  | 386df89                                                   |
+| commit  | db6e40c                                                   |
 | systems | html-inspector-views                                      |
 |---------+-----------------------------------------------------------|
  
